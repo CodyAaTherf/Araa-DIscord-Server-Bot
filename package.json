@@ -1,6 +1,6 @@
 {
   "name": "araa-discord-server-bot",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -25,6 +25,11 @@
   "homepage": "https://github.com/CodyAaTherf/Araa-DIscord-Server-Bot#readme",
   "dependencies": {
     "discord.js": "^13.6.0",
+    "module-alias": "^2.2.2",
     "reliablecmds": "^1.0.1"
+  } ,
+  "_moduleAliases": {
+    "@root": "." ,
+    "@src": "./src"
   }
 }
