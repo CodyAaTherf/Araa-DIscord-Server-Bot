@@ -1,6 +1,6 @@
 {
   "name": "araa-discord-server-bot",
-  "version": "1.1.2",
+  "version": "1.1.2-t1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
