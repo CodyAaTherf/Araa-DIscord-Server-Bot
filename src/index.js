@@ -7,6 +7,8 @@ const client = new Discord.Client({
         'GUILDS' ,
         'GUILD_MESSAGES' ,
         'GUILD_MESSAGE_REACTIONS' ,
+        'GUILD_BANS' ,
+        'DIRECT_MESSAGES' ,
     ]
 });
 
